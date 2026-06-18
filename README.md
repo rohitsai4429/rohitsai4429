@@ -5,19 +5,19 @@
 ### AI ENGINEER &nbsp;·&nbsp; Agentic AI Intern @ Innomatics Research Labs
 
 <a href="https://www.linkedin.com/in/kamepalli-rohit-sai-b17774292/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:rohitsaikamepalli@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://github.com/rohitsai4429">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://medium.com/@rohitsaikamepalli">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
 </a>
 
 <br/>
@@ -28,132 +28,71 @@
 
 ---
 
-## 👤 Who I Am
+## 👤 Executive Summary
 
-- 🎓 Final-year B.Tech (AI & ML) student at **VVIT, Guntur** · CGPA **8.3**
-- 🤖 Built **agentic workflows, RAG pipelines & FastAPI microservices** on AWS EC2 at Innomatics Research Labs
-- 🧠 Passionate about **LangGraph, multi-agent systems** and production-ready AI
-- ✍️ Published **5+ technical blogs** on Generative AI & Agentic architectures — **500+ views** on [Medium](https://medium.com/@rohitsaikamepalli)
-- 💻 Active on **LeetCode & CodeChef**
-- 📍 Guntur, Andhra Pradesh · **Open to AI Engineer / GenAI roles**
+I am a final-year B.Tech (AI & ML) student at **VVIT, Guntur** (CGPA **8.3**) specializing in production-ready artificial intelligence. I focus on building intelligent, scalable systems using **agentic workflows, RAG pipelines, and FastAPI microservices**. 
+
+Beyond writing code, I actively share my learnings, with **5+ technical blogs** on Generative AI and Agentic architectures garnering over 500+ views on Medium. I am currently seeking high-impact roles as an AI Engineer where I can build and iterate on complex multi-agent systems.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Arsenal
 
-**Languages**
+| Category | Technologies |
+| :--- | :--- |
+| 🤖 **AI & LLMs** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-6366F1?style=flat-square&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-0F6E56?style=flat-square&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-181717?style=flat-square&logoColor=white) |
+| 💻 **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| 📊 **Data & ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white) |
+| ⚙️ **Backend & Cloud** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-**AI / LLMs**
+## 💼 Professional Experience
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0F6E56?style=for-the-badge&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-F97316?style=for-the-badge&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek_API-181717?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**ML / Data Science**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Vector Databases**
-
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
-
-**Backend & Cloud**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Agentic AI Intern** | *Innomatics Research Labs* `Feb 2025 – May 2025`
+* Selected via a competitive hackathon to develop and deploy **LangGraph/LangChain** agentic workflows featuring tool-calling agents and multi-step reasoning.
+* Engineered **3+ AI applications** utilizing Python and FastAPI with async request handling, reducing response latency by ~30% compared to synchronous baselines.
+* Built and deployed a production-grade **RAG pipeline** on AWS EC2 utilizing Sentence Transformers, vector similarity search, and a Gemini API fallback.
+* Integrated multiple LLM APIs (Gemini, Groq, DeepSeek) to optimize prompt engineering frameworks across various deliverables.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔷 [RAG-Based Customer Support Assistant](https://github.com/rohitsai4429/RAG-BASED-CUSTOMER-SUPPORT-ASSISTANT)
-> PDF ingestion → Sentence Transformer embeddings → cosine similarity vector search → LangGraph confidence scoring with **Human-in-the-Loop (HITL) escalation** → Gemini API fallback for out-of-context queries.
+> An intelligent support system utilizing PDF ingestion, Sentence Transformer embeddings, and cosine similarity vector search. Features LangGraph confidence scoring with **Human-in-the-Loop (HITL)** escalation and Gemini API fallback for complex out-of-context queries.
 
 `Python` `Streamlit` `Sentence Transformers` `NumPy` `Gemini API` `Vector Search` `HITL`
 
----
-
 ### 🔷 [NexusAI — Modular Multi-Agent Intelligence Platform](https://github.com/rohitsai4429/multi_agent_system)
-> Orchestrates **3 LLMs in parallel** (Gemini, Groq, DeepSeek) with automatic retry logic achieving **95%+ task completion rate**. Modular adapter pattern reduces new model integration effort by ~60%.
+> A robust orchestration platform running **3 LLMs in parallel** (Gemini, Groq, DeepSeek). Implements automatic retry logic to achieve a **95%+ task completion rate** and utilizes a modular adapter pattern that reduces new model integration effort by ~60%.
 
 `Python` `FastAPI` `React` `LangGraph` `Gemini API` `Groq API` `DeepSeek API`
 
 ---
 
-## 💼 Experience
-
-**Agentic AI Intern** — Innomatics Research Labs
-`Feb 2025 – May 2025 · 4 months`
-
-- Selected via competitive hackathon; built 3+ AI applications using Python and FastAPI with async request handling, achieving ~30% lower response latency vs. synchronous baselines
-- Developed and deployed LangGraph / LangChain agentic workflows with tool-calling agents, multi-step reasoning, and RAG pipelines on AWS EC2 with CI/CD automation
-- Built a production-grade RAG pipeline using Sentence Transformers, vector similarity search, and Gemini API fallback for intelligent document Q&A at scale
-- Worked with LLM APIs (Gemini, Groq, DeepSeek), prompt engineering techniques, and RAG frameworks across multiple deliverables
-
----
-
 ## 📜 Certifications
 
-- 🏅 **Introduction to Large Language Models** — NPTEL · Nov 2025
-- 🏅 **Agentic AI Fundamentals: Architectures, Frameworks & Applications** — LinkedIn Learning · Jan 2026
-- 🏅 **LangChain for LLM Application Development** — DeepLearning.AI / Coursera · 2025
+* 🏅 **Agentic AI Fundamentals: Architectures, Frameworks & Applications** — *LinkedIn Learning (Jan 2026)*
+* 🏅 **Introduction to Large Language Models** — *NPTEL (Nov 2025)*
+* 🏅 **LangChain for LLM Application Development** — *DeepLearning.AI / Coursera (2025)*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rohitsai4429&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rohitsai4429&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" height="165" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rohitsai4429&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f97316&currStreakLabel=6366f1" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rohitsai4429&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f97316&currStreakLabel=6366f1" height="165" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsai4429&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1"/>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-> Open to **AI Engineer · GenAI · Agentic AI** roles — let's build something impactful.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/kamepalli-rohit-sai-b17774292/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:rohitsaikamepalli@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/rohitsai4429">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://medium.com/@rohitsaikamepalli">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitsai4429&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" alt="Top Languages"/>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rohitsai4429&color=6366f1&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=rohitsai4429&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
