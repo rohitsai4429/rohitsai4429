@@ -25,6 +25,10 @@ Final-year B.Tech (AI & ML) · VVIT, Guntur · CGPA 8.3
 <a href="https://medium.com/@rohitsaikamepalli">
   <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" />
 </a>
+&nbsp;
+<a href="https://rohitsai.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-1D9E75?style=flat-square&logo=vercel&logoColor=white" />
+</a>
 
 <br/><br/>
 
@@ -40,12 +44,12 @@ Final-year B.Tech (AI & ML) · VVIT, Guntur · CGPA 8.3
 
 ## About
 
-- 🎓 &nbsp;Final-year B.Tech (AI & ML) · **VVIT, Guntur** · CGPA **8.3**
-- 🤖 &nbsp;Built **agentic workflows, RAG pipelines & FastAPI microservices** on AWS EC2 at Innomatics Research Labs
-- 🧠 &nbsp;Passionate about **LangGraph, multi-agent systems** and production-ready AI
-- ✍️ &nbsp;Published **5+ technical blogs** on GenAI & Agentic architectures — **500+ views** on [Medium](https://medium.com/@rohitsaikamepalli)
-- 💻 &nbsp;Active competitive programmer on **LeetCode** & **CodeChef**
-- 📍 &nbsp;Guntur, Andhra Pradesh
+- 🎓 Final-year B.Tech (AI & ML) at **VVIT, Guntur** — CGPA **8.3**
+- 🤖 Built agentic workflows, RAG pipelines, and FastAPI microservices on AWS EC2 during my internship at Innomatics Research Labs
+- 🧠 Focused on **LangGraph, multi-agent systems**, and shipping production-ready AI
+- ✍️ Published 5+ technical articles on GenAI and agentic architectures — 500+ views on [Medium](https://medium.com/@rohitsaikamepalli)
+- 💻 Active competitive programmer — 3★ on CodeChef, 100+ problems solved on LeetCode
+- 📍 Based in Guntur, Andhra Pradesh
 
 ---
 
@@ -94,7 +98,7 @@ Final-year B.Tech (AI & ML) · VVIT, Guntur · CGPA 8.3
 
 ### [RAG-Based Customer Support Assistant](https://github.com/rohitsai4429/RAG-BASED-CUSTOMER-SUPPORT-ASSISTANT)
 
-PDF ingestion → Sentence Transformer embeddings → cosine similarity vector search → LangGraph confidence scoring with **Human-in-the-Loop (HITL) escalation** → Gemini API fallback for out-of-context queries.
+PDF ingestion → Sentence Transformer embeddings → cosine-similarity vector search → LangGraph confidence scoring with **human-in-the-loop (HITL) escalation** → Gemini API fallback for out-of-context queries.
 
 `Python` `Streamlit` `Sentence Transformers` `LangGraph` `Gemini API` `HITL`
 
@@ -103,7 +107,7 @@ PDF ingestion → Sentence Transformer embeddings → cosine similarity vector s
 
 ### [NexusAI — Multi-Agent Intelligence Platform](https://github.com/rohitsai4429/multi_agent_system)
 
-Orchestrates **3 LLMs in parallel** (Gemini, Groq, DeepSeek) with automatic retry logic achieving **95%+ task completion**. Modular adapter pattern reduces new model integration effort by ~60%.
+Orchestrates **3 LLMs in parallel** (Gemini, Groq, DeepSeek) with automatic retry logic, achieving **95%+ task completion**. A modular adapter pattern cuts new-model integration effort by roughly **60%**.
 
 `Python` `FastAPI` `React` `LangGraph` `Gemini` `Groq` `DeepSeek`
 
@@ -115,12 +119,12 @@ Orchestrates **3 LLMs in parallel** (Gemini, Groq, DeepSeek) with automatic retr
 
 ## Experience
 
-**Agentic AI Intern** — Innomatics Research Labs &nbsp;·&nbsp; `Feb 2025 – May 2025`
+**Agentic AI Intern** — Innomatics Research Labs &nbsp;·&nbsp; `Feb 2026 – May 2026`
 
-- Selected via competitive hackathon; built 3+ AI applications using Python and FastAPI with async request handling, achieving ~30% lower latency vs. synchronous baselines
-- Developed and deployed LangGraph / LangChain agentic workflows with tool-calling agents, multi-step reasoning, and RAG pipelines on AWS EC2 with CI/CD automation
-- Built a production-grade RAG pipeline using Sentence Transformers, vector similarity search, and Gemini API fallback for intelligent document Q&A at scale
-- Worked with Gemini, Groq, and DeepSeek APIs across multiple deliverables alongside advanced prompt engineering techniques
+- Selected through a competitive hackathon; built 3+ AI applications in Python and FastAPI with async request handling, cutting latency by ~30% versus synchronous baselines
+- Designed and deployed LangGraph/LangChain agentic workflows with tool-calling agents, multi-step reasoning, and RAG pipelines on AWS EC2, with CI/CD automation
+- Built a production-grade RAG pipeline using Sentence Transformers, vector similarity search, and Gemini API fallback for document Q&A at scale
+- Worked with the Gemini, Groq, and DeepSeek APIs across multiple deliverables, applying advanced prompt engineering techniques
 
 ---
 
@@ -128,9 +132,18 @@ Orchestrates **3 LLMs in parallel** (Gemini, Groq, DeepSeek) with automatic retr
 
 | Certificate | Issuer | Date |
 |---|---|---|
+| RAG and Agentic AI Professional Certificate | IBM | 2025 |
 | Introduction to Large Language Models | NPTEL | Nov 2025 |
 | Agentic AI Fundamentals: Architectures, Frameworks & Applications | LinkedIn Learning | Jan 2026 |
 | LangChain for LLM Application Development | DeepLearning.AI / Coursera | 2025 |
+
+---
+
+## Beyond the Code
+
+- Participated in **Flipkart GRiD 8.0**
+- Attended a Generative AI workshop at **IIT Hyderabad**, organized by Elan & nVision
+- Serve as **Public Relations lead**, Innovation, Incubation & Entrepreneurship Cell (IIC), VVIT
 
 ---
 
